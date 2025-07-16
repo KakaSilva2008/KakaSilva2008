@@ -33,6 +33,7 @@ Me chamo Kauã Andrade Silva, tenho 16 anos e sou estudante do SESI, atualmente 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+<!--
 <img 
     align="left" 
     alt="TypeScript"
@@ -64,7 +65,7 @@ Me chamo Kauã Andrade Silva, tenho 16 anos e sou estudante do SESI, atualmente 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
+/> -->
 <!--
 <img 
     align="left" 
@@ -82,6 +83,7 @@ Me chamo Kauã Andrade Silva, tenho 16 anos e sou estudante do SESI, atualmente 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
+<!--
 <img 
     align="left" 
     alt="Laravel" 
@@ -90,7 +92,7 @@ Me chamo Kauã Andrade Silva, tenho 16 anos e sou estudante do SESI, atualmente 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
 />
-<!--
+
 <img 
     align="left" 
     alt="JQuery" 
