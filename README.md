@@ -74,7 +74,7 @@ Me chamo Kauã Andrade Silva, tenho 16 anos e sou estudante do SESI, atualmente 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>-->
+/>
 <img 
     align="left" 
     alt="PHP" 
@@ -82,7 +82,7 @@ Me chamo Kauã Andrade Silva, tenho 16 anos e sou estudante do SESI, atualmente 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
+/>-->
 <!--
 <img 
     align="left" 
