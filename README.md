@@ -33,7 +33,7 @@ Me chamo Kauã Andrade Silva, tenho 16 anos e sou estudante do SESI, atualmente 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-<!--
+
 <img 
     align="left" 
     alt="TypeScript"
@@ -52,6 +52,15 @@ Me chamo Kauã Andrade Silva, tenho 16 anos e sou estudante do SESI, atualmente 
 />
 <img 
     align="left" 
+    alt="SASS" 
+    title="SASS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
+/>
+<!--
+<img 
+    align="left" 
     alt="Bootstrap"
     title="Bootstrap" 
     width="30px" 
@@ -67,14 +76,7 @@ Me chamo Kauã Andrade Silva, tenho 16 anos e sou estudante do SESI, atualmente 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 /> -->
 <!--
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
+
 <img 
     align="left" 
     alt="PHP" 
@@ -122,8 +124,9 @@ Me chamo Kauã Andrade Silva, tenho 16 anos e sou estudante do SESI, atualmente 
 <br/>
 <br/>
 
-### 📊 Estatísticas
+
 <!--
+### 📊 Estatísticas
 <p>
   <img 
     align="left" 
@@ -132,13 +135,14 @@ Me chamo Kauã Andrade Silva, tenho 16 anos e sou estudante do SESI, atualmente 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=KakaSilva2008&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
--->
-<img 
+  <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=KakaSilva2008&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+-->
+
 
 </p>
 
